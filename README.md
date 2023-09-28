@@ -3,7 +3,7 @@
 <h3 align="center">Ukranian Lead Developer with a team of high proficency specialists</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuramol&label=Profile%20views&color=0e75b6&style=flat" alt="yuramol" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuramol" alt="yuramol" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuramol" alt="yuramol" /></a> </p>
 
 - 💦🚗 I’ve developed apps for [franchise network with 2 315 posts](https://luxwash.ua/)
 - 💥 My stats **💲 over 150K$ 💲 || ⌚ 6K work hours ⌚ || ❤ 74 satisfied clients ❤**
