@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuramol&label=Profile%20views&color=0e75b6&style=flat" alt="yuramol" /> </p>
 
 - 💦🚗 I’ve developed apps for [franchise network with 2 315 posts](https://luxwash.ua/)
-- 🤑💰 I’ve taken part in [illions of dollars invested project](https://gapnurse.com/)
+- 🤑💰 I’ve taken part in [millions of dollars invested project](https://gapnurse.com/)
 - 🏆🥇 delivered project awarded [Most Innovative Brokerage” - a global network of 565 real estate companies representing 130,000 agents, across 70+ countries](https://plumbid.com/)
 - 💥 My stats **💲 over 150K$ 💲 || ⌚ 6K work hours ⌚ || ❤ 74 satisfied clients ❤**
 - 👨‍💻 All of my projects are available at [softbee.io](softbee.io)
