@@ -4,7 +4,10 @@
 
 <h2 align="left">Connect with me:</h3>
 
-<p>
+<p style="
+    display: flex;
+    gap: 5px;
+">
 <a href="https://linkedin.com/in/yurij-moldavchuk" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1123990368896176219/1158424784321925170/Frame_1419.png?ex=651c32a7&is=651ae127&hm=4547178d63ce1695f5aea3e310c3b4dfcb7635a1fb947599e1b3424a289d8558" style="max-width: 100%;" /></a> 
 <a href="https://clutch.co/profile/softbee-0" targe="blank"><img src="https://cdn.discordapp.com/attachments/1123990368896176219/1158424784816849016/Frame_1417.png?ex=651c32a7&is=651ae127&hm=adf85b478c0460c8dc27145253368e82427821dd31e89bf14ec1a14309e95e48" style="max-width: 100%;"/></a>
 <a href="mailto:info@softbee.io" targe="blank"><img src="https://cdn.discordapp.com/attachments/1123990368896176219/1158424785060122635/Frame_1418.png?ex=651c32a7&is=651ae127&hm=8326f121ad6e31d0ff42fb0c6fafbe3b852e3cf4cfff403f077ae4f48057163a" style="max-width: 100%;"/></a>
