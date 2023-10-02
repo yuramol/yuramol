@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+<p style="display: flex; align-items: center;">
 
 <a href="https://linkedin.com/in/yurij-moldavchuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yurij-moldavchuk" height="30" width="40" /></a> <a href="https://www.behance.net/softbee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="softbee" height="30" width="40" /></a><a href="https://www.upwork.com/freelancers/~01dc05c3dd4817bee4/" target="blank" alt="upwork">
 <img src="https://cdn.discordapp.com/attachments/1123990368896176219/1158419427247783946/upwork-tile_2.jpg?ex=651c2da9&is=651adc29&hm=c1edc5ec1ab0586735d4f03b96f591b91c859f343b0d6cc22e1e2f83922a2fbf" width="40" height="40"/>
