@@ -2,6 +2,16 @@
 
 <h3 align="center">Ukranian Lead Developer with a team of high proficency specialists</h3>
 
+<h3 align="left">Connect with me:</h3>
+
+<p>
+
+<a href="https://linkedin.com/in/yurij-moldavchuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yurij-moldavchuk" height="30" width="40" style="max-width: 100%;" /></a> <a href="https://www.behance.net/softbee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="softbee" height="30" width="40" /></a><a href="https://www.upwork.com/freelancers/~01dc05c3dd4817bee4/" style="max-width: 100%;" target="blank" alt="upwork">
+<img src="https://cdn.discordapp.com/attachments/1123990368896176219/1158419427247783946/upwork-tile_2.jpg?ex=651c2da9&is=651adc29&hm=c1edc5ec1ab0586735d4f03b96f591b91c859f343b0d6cc22e1e2f83922a2fbf" style="max-width: 100%;" width="40" height="40"/>
+</a>
+
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuramol&label=Profile%20views&color=0e75b6&style=flat" alt="yuramol" /> </p>
 
 - 💦🚗 I’ve developed apps for [franchise network with 2 315 posts](https://luxwash.ua/)
@@ -15,15 +25,6 @@
 - 📄 Read my articles here [www.linkedin.com/in/yurij-moldavchuk](www.linkedin.com/in/yurij-moldavchuk)
 - 🛠 All technologies I've worked **TypeScript, React.js, React-Apollo, React Storybook, React Native, Vue.js, Node.js, Python, Django, Next.js, Nuxt.js, Redux, Redux-saga, GatsbyJS, GraphQL, Stripe, Firebase, Firebase Client Android, Firebase database, Firebase Realtime Database, Axios, Twilio, Twilio API, Mapbox, Three.js, WebSockets, Material-UI, Bootstrap, Tailwind, UI, UX, Brand Consulting, Logo Design, Style Guide Development, Figma.**
 
-<h3 align="left">Connect with me:</h3>
-
-<p>
-
-<a href="https://linkedin.com/in/yurij-moldavchuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yurij-moldavchuk" height="30" width="40" style="max-width: 100%;" /></a> <a href="https://www.behance.net/softbee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="softbee" height="30" width="40" /></a><a href="https://www.upwork.com/freelancers/~01dc05c3dd4817bee4/" style="max-width: 100%;" target="blank" alt="upwork">
-<img src="https://cdn.discordapp.com/attachments/1123990368896176219/1158419427247783946/upwork-tile_2.jpg?ex=651c2da9&is=651adc29&hm=c1edc5ec1ab0586735d4f03b96f591b91c859f343b0d6cc22e1e2f83922a2fbf" style="max-width: 100%;" width="40" height="40"/>
-</a>
-
-</p>
 
 <div dir="auto">
 <h1 id="user-content-my-skills-️" dir="auto">My Skills 🛠️</h1>
