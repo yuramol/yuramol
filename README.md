@@ -14,9 +14,6 @@
     <a href="https://linkedin.com/in/yurij-moldavchuk" target="blank"><img src="https://cdn.discordapp.com/attachments/1123990368896176219/1158424784321925170/Frame_1419.png?ex=651c32a7&is=651ae127&hm=4547178d63ce1695f5aea3e310c3b4dfcb7635a1fb947599e1b3424a289d8558" style="max-width: 100%;" />
 </a>
 </p>
-<p>
-
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuramol&label=Profile%20views&color=0e75b6&style=flat" alt="yuramol" /> </p>
 
