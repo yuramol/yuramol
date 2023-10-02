@@ -6,8 +6,11 @@
 
 <p>
 
-<a href="https://linkedin.com/in/yurij-moldavchuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yurij-moldavchuk" height="30" width="40" style="max-width: 100%;" /></a> <a href="https://www.behance.net/softbee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="softbee" height="30" width="40" /></a><a href="https://www.upwork.com/freelancers/~01dc05c3dd4817bee4/" style="max-width: 100%;" target="blank" alt="upwork">
-<img src="https://cdn.discordapp.com/attachments/1123990368896176219/1158419427247783946/upwork-tile_2.jpg?ex=651c2da9&is=651adc29&hm=c1edc5ec1ab0586735d4f03b96f591b91c859f343b0d6cc22e1e2f83922a2fbf" style="max-width: 100%;" width="40" height="40"/>
+<a href="https://linkedin.com/in/yurij-moldavchuk" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1123990368896176219/1158424784321925170/Frame_1419.png?ex=651c32a7&is=651ae127&hm=4547178d63ce1695f5aea3e310c3b4dfcb7635a1fb947599e1b3424a289d8558" style="max-width: 100%;" /></a> 
+<a href="https://clutch.co/profile/softbee-0" targe="blank"><img src="https://cdn.discordapp.com/attachments/1123990368896176219/1158424784816849016/Frame_1417.png?ex=651c32a7&is=651ae127&hm=adf85b478c0460c8dc27145253368e82427821dd31e89bf14ec1a14309e95e48" style="max-width: 100%;"/></a>
+<a href="mailto:info@softbee.io" targe="blank"><img src="https://cdn.discordapp.com/attachments/1123990368896176219/1158424785060122635/Frame_1418.png?ex=651c32a7&is=651ae127&hm=8326f121ad6e31d0ff42fb0c6fafbe3b852e3cf4cfff403f077ae4f48057163a" style="max-width: 100%;"/></a>
+<a href="https://www.upwork.com/freelancers/~01dc05c3dd4817bee4/" style="max-width: 100%;" target="blank" alt="upwork">
+<img src="https://cdn.discordapp.com/attachments/1123990368896176219/1158424784598736967/Frame_1416.png?ex=651c32a7&is=651ae127&hm=fc955c054db1987e2407538ea166772c4728a1229fb8da7aa53f762f560dffcf" style="max-width: 100%;"/>
 </a>
 
 </p>
