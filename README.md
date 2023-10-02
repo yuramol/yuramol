@@ -11,7 +11,10 @@
     </a>
     <a href="https://www.upwork.com/freelancers/~01dc05c3dd4817bee4/" style="max-width: 100%;" target="blank" alt="upwork"><img src="https://cdn.discordapp.com/attachments/1123990368896176219/1158424784598736967/Frame_1416.png?ex=651c32a7&is=651ae127&hm=fc955c054db1987e2407538ea166772c4728a1229fb8da7aa53f762f560dffcf" style="max-width: 100%;"/>
     </a>
-        <a href="https://linkedin.com/in/yurij-moldavchuk" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1123990368896176219/1158424784321925170/Frame_1419.png?ex=651c32a7&is=651ae127&hm=4547178d63ce1695f5aea3e310c3b4dfcb7635a1fb947599e1b3424a289d8558" style="max-width: 100%;" />
+
+</p>
+<p>
+         <a href="https://linkedin.com/in/yurij-moldavchuk" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/1123990368896176219/1158424784321925170/Frame_1419.png?ex=651c32a7&is=651ae127&hm=4547178d63ce1695f5aea3e310c3b4dfcb7635a1fb947599e1b3424a289d8558" style="max-width: 100%;" />
 </a>
 </p>
 
